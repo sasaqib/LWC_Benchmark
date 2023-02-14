@@ -1,0 +1,3 @@
+/Users/lino/Research/tiny jambu/C Implementation/v2/build/pioasm/CMakeFiles/pioasm.dir
+/Users/lino/Research/tiny jambu/C Implementation/v2/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/lino/Research/tiny jambu/C Implementation/v2/build/pioasm/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/local/bin/arm-none-eabi-ar qc libtinyJambu.a CMakeFiles/tinyJambu.dir/encrypt.c.obj
+/usr/local/bin/arm-none-eabi-ranlib libtinyJambu.a
